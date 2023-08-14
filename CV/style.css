@@ -150,6 +150,12 @@ h6 {
     font-weight: 500;
 }
 
+h2 {
+    color: #333;
+    font-size: 30px;
+    font-weight: 500;
+}
+
 .skills .percent {
     position: relative;
     width: 100%;
